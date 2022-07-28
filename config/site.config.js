@@ -56,7 +56,7 @@ module.exports = {
       link: 'https://github.com/xifan2586655304',
     },
     {
-      name: 'bilibili',
+      name: 'Bilibili',
       link: 'https://space.bilibili.com/26142364',
     },
   ],
